@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Metastarx's+GitHub)](https://git.io/typing-svg)
 # 👋 Hi, I’m @Metastarx
 >Knowledge as action
-- 🏡 I'm living in jiangsu and looking for a job in suzho.
-- 🌱 I'm currently learning Computer Graphics & Machine Learning & Web Technologies.
+- 🏡 I'm living in jiangsu and looking for a job in Hangzhou.
+- 🌱 I'm currently learning Computer Graphics.
 - 😍 I like eating delicious foods 🍔, traveling 🏝, photography 📸, coding 🧑‍💻 and sleeping 🛌.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
