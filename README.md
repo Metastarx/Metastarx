@@ -1,35 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Metastarx's+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=520&lines=Metastarx's+GitHub;Game+Development+%7C+Neural+Rendering)](https://git.io/typing-svg)
+
 # 👋 Hi, I’m @Metastarx
->Knowledge as action
-- 🏡 I'm living in jiangsu and looking for a job in Hangzhou.
-- 🌱 I'm currently learning Computer Graphics.
-- 😍 I like eating delicious foods 🍔, traveling 🏝, photography 📸, coding 🧑‍💻 and sleeping 🛌.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-#### Skills and Interested
+> Knowledge as action.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/cpp/cpp.png" alt="cpp" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/javascript/javascript.png" alt="javascript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/css/css.png" alt="css" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/html/html.png" alt="html" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/python/python.png" alt="python" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/java/java.png" alt="java" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/arduino/arduino.png" alt="arduino" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/nodejs/nodejs.png" alt="nodejs" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/linux/linux.png" alt="linux" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" alt="android" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/chrome/chrome.png" alt="chrome" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png" alt="terminal" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" alt="google" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png" alt="macos" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt="raspberry-pi" /></code>
+I am a master's student in Software Engineering at Zhejiang University, currently based in Hangzhou. My research interests lie at the intersection of real-time graphics, game development, and neural rendering.
 
-what's more</br>
--🥰 You can follow me on <a href="metastarx.github.io">my blog</a></br>
--📬 Email: metastarxx@gmail.com
+- 🎓 M.S. student at Zhejiang University
+- 🎮 Working on game development and real-time rendering
+- 🧠 Researching neural rendering, neural compression, and AI for graphics
+- 🌱 Currently exploring Unreal Engine, computer graphics, and generative models
+- 📸 I enjoy photography, traveling, good food, coding, and sleep
 
-<!---
-Metastarx/Metastarx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Research Interests
+
+- Real-time Rendering
+- Neural Rendering and Neural Compression
+- Game Engine Development
+- Computer Graphics
+- AI-generated Content for Games
+
+#### Tech Stack
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/unreal-engine/unreal-engine.png" alt="Unreal Engine" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/opengl/opengl.png" alt="OpenGL" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" /></code>
+
+#### More
+
+- 🌐 Blog: [metastarx.github.io](https://metastarx.github.io)
+- 📬 Email: metastarxx@gmail.com
